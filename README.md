@@ -3,7 +3,7 @@
 
 ## 👉 [Video](https://www.youtube.com/watch?v=oHBGhHlVOI0) Give it a like 👍 or better yet, a dislike 👎
 
-## 👉 [Keynote](https://github.com/EvanBacon/React-Europe-2018/index.html) 
+## 👉 [Keynote](https://evanbacon.github.io/React-Europe-2018/assets/player/KeynoteDHTMLPlayer.html) 
 
 ### Links
 
