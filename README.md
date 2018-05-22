@@ -1,4 +1,4 @@
-# [React-Europe-2018](https://evanbacon.github.io/React-Europe-2018/assets/player/KeynoteDHTMLPlayer.html#18)
+# [React-Europe-2018](https://evanbacon.github.io/React-Europe-2018/assets/player/KeynoteDHTMLPlayer.html)
 **Gaming resources from React Europe 2018**
 
 ## 👉 [Video](https://www.youtube.com/watch?v=oHBGhHlVOI0) Give it a like 👍 or better yet, a dislike 👎
